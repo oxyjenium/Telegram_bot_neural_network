@@ -1,0 +1,10 @@
+*.pyc
+sqlite3.*
+migrations/models/*
+env.env
+.env
+test.py
+.vscode/
+media/*
+vvffvf
+.idea
